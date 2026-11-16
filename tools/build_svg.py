@@ -177,8 +177,7 @@ text {{ font-family: "Incon", Consolas, "Courier New", monospace; font-size: {FO
 <g clip-path="url(#win)" xml:space="preserve">
 <rect width="{W}" height="{H}" fill="#1e1e1e"/>
 <rect width="{W}" height="{TITLE_H}" fill="#3a3a3a"/>
-<circle cx="20" cy="20" r="6" fill="#ff5f57"/><circle cx="40" cy="20" r="6" fill="#febc2e"/><circle cx="60" cy="20" r="6" fill="#28c840"/>
-<text x="82" y="25" class="f">mentor_gesucht.py</text>
+<text x="14" y="25" class="f">mentor_gesucht.py</text>
 <text x="{W - 14}" y="25" class="f" text-anchor="end" fill="#888">Python 3</text>
 <image x="0" y="{TITLE_H}" width="{W}" height="{IMG_H}" preserveAspectRatio="xMidYMid slice" href="data:image/jpeg;base64,{img}" xlink:href="data:image/jpeg;base64,{img}"/>
 {"".join(parts)}
